@@ -1,0 +1,7 @@
+Package: Grafica
+Type: Package
+Title: Librería para crear gráficos en R
+Version: 0.1.0
+Author: Juan Sebastian Ulloa Mejia
+Description: Esta librería proporciona funciones para crear gráficos estéticos en R.
+RoxygenNote: 7.3.1
